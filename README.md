@@ -1,0 +1,1 @@
+Participating in knowits kodekalender and adventofcode
